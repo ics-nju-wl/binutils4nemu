@@ -3,6 +3,8 @@
 Fork of binutils-2.33.1, customized libopcode to support NEMU, which parses
 opcode 0x82 as nemu_trap in objdump.
 
+backup: https://gitee.com/wlicsnju/binutils4nemu
+
 		   README for GNU development tools
 
 This directory contains various GNU compilers, assemblers, linkers, 
